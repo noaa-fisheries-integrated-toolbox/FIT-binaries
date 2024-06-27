@@ -1,9 +1,11 @@
-# NFT-binaries
-Legacy binaries from the National Fisheries Toolbox (the predecessor to the FIT)
+# FIT-binaries
+Legacy binaries from the original toolbox
 
 |Name  | Version | Link  | 
 | ---- | ------  | ----- |
 | 2Box |  3.05   |       |
+
+
 
 
 
