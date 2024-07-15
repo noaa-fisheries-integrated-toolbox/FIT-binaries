@@ -1,5 +1,5 @@
 # FIT-binaries
-Legacy binaries from the original toolbox
+Binaries from the original toolbox
 
 |Name  | Version | Link  | 
 | ---- | ------  | ----- |
